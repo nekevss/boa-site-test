@@ -6,21 +6,21 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Boa JS",
+  title: "TEST - Boa JS",
   tagline: "An ECMAScript engine written in Rust",
   favicon: "img/classic_logo.png",
 
   // Set the production url of your site here
-  url: "https://boajs.dev",
+  url: "https://nekevss.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/boa-site-test/",
   trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "boa-dev",
-  projectName: "boa-dev.github.io",
+  organizationName: "nekevss",
+  projectName: "boa-site-test",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
